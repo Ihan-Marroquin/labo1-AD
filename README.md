@@ -1,6 +1,6 @@
-# Laboratorio 1 - Aplicación Sencilla con Jetpack Compose
+# Laboratorio 1
 
-Este es un proyecto de ejemplo creado con Jetpack Compose para demostrar cómo crear una aplicación sencilla de Android. La aplicación muestra textos y un botón que registra un mensaje en los logs al ser presionado.
+Este es un proyecto de ejemplo creado con Compose para demostrar cómo crear una aplicación de Android. La aplicación muestra textos y un botón que registra un mensaje en los logs al ser presionado.
 
 ## Características
 
@@ -24,9 +24,5 @@ Para ver una demostración de la aplicación funcionando en el emulador, visita 
 
 - Android Studio Arctic Fox o superior.
 - Conexión a internet para clonar el repositorio y descargar dependencias.
-
-## Contacto
-
-Para cualquier pregunta o sugerencia, por favor, abre un issue en este repositorio.
 
 ¡Gracias por visitar este proyecto!
